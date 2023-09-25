@@ -1,4 +1,4 @@
-# Tarefaemsqlusandojob
+#Tarefaemsqlusandojob
 -- Criação da tabela de tarefas para PostgreSQL
 CREATE TABLE Tarefas (
     ID SERIAL PRIMARY KEY,
